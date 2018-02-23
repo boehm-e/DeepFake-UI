@@ -1,0 +1,3 @@
+data/models/decoder_A.h5
+data/models/decoder_B.h5
+data/models/encoder.h5

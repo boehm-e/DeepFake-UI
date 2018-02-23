@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>From.qml</file>
+        <file>Head.qml</file>
+        <file>To.qml</file>
+        <file>DropZone.qml</file>
+        <file>ImageGridView.qml</file>
+        <file>Divider.qml</file>
+        <file>Train.qml</file>
+        <file>SplitAndCrop.qml</file>
+        <file>TrainAndConvert.qml</file>
+    </qresource>
+</RCC>
